@@ -115,6 +115,8 @@ In addition to the eight primitive data types listed above, the Java programming
 <img src="https://docs.scala-lang.org/resources/images/tour/collections-immutable-diagram.svg">
 </details>
 
+### `java.time`
+[Date and Time](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/package-summary.html)
 
 
 ## References
