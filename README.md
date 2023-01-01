@@ -34,7 +34,7 @@
 
 ### Fundamentals
 
-<details>
+<details open>
 <summary><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html">Datatypes</a></summary>
 
 * **[byte](https://scala-lang.org/api/current/scala/Byte.html)**: The `byte` data type is an 8-bit signed two's complement integer. It has a minimum value of -128 and a maximum value of 127 (inclusive). The `byte` data type can be useful for saving memory in large [arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html), where the memory savings actually matters. They can also be used in place of int where their limits help to clarify your code; the fact that a variable's range is limited can serve as a form of documentation.
@@ -78,7 +78,7 @@ In addition to the eight primitive data types listed above, the Java programming
 
 <details>
 <summary>Type Casting</summary>
-<img src="https://docs.scala-lang.org/resources/images/tour/unified-types-diagram.svg">
+<img src="https://docs.scala-lang.org/resources/images/tour/type-casting-diagram.svg">
 </details>
 
 ### Collections 
